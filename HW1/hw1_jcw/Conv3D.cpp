@@ -22,7 +22,7 @@ void Conv3D::load_weights(const std::string &weight_file, const std::string &bia
         exit(1);
     }
 
-    // 直接照檔案順序讀
+    // 照檔案順序讀
     for (int i = 0; i < total; i++)
     {
         wf >> weights[i];
