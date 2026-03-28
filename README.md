@@ -33,18 +33,18 @@ Contains **2 images**:
 
 ### **(2) `Sobel edge detection results`**  
 Contains **4 images**:  
-- **Magnitude of gradient** (Gaussian kernel size = 5 and 10) ï¿½ï¿½ **2 images**  
-- **Direction of gradient** (Gaussian kernel size = 5 and 10) ï¿½ï¿½ **2 images**  
+- **Magnitude of gradient** (Gaussian kernel size = 5 and 10) ¡÷ **2 images**  
+- **Direction of gradient** (Gaussian kernel size = 5 and 10) ¡÷ **2 images**  
 
 ### **(3) `Structure tensor + NMS results`**  
 Contains **2 images**:  
-- Window size = **3ï¿½ï¿½3**  
-- Window size = **30ï¿½ï¿½30**  
+- Window size = **3¡Ñ3**  
+- Window size = **30¡Ñ30**  
 
 ### **(4) `Final results of rotating`**  
 Contains **1 image**:  
-- **Final result after rotating** the original image by **30ï¿½X**  
+- **Final result after rotating** the original image by **30¢X**  
 
 ### **(5) `Final results of scaling`**  
 Contains **1 image**:  
-- **Final result after scaling** the original image to **0.5ï¿½ï¿½**  
+- **Final result after scaling** the original image to **0.5¡Ñ**  
